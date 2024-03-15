@@ -1,3 +1,2 @@
 # odin-recipes
-this is the first  one 
-hellow odin
+my name is abel i will do the project that will mainly focused on the html basic 
